@@ -33,6 +33,6 @@ a cat breed recognizer using TF
 - [ ] Sphynx
 - [ ] Ragdoll
 - [ ] Ashera
-- [ ] American Shorthair
+- [x] American Shorthair
 - [ ] Exotic
 - [ ] British Shorthair
