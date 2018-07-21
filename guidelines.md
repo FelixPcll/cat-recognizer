@@ -25,12 +25,12 @@ a cat breed recognizer using TF
 ## What DB we got
 
 - [x] Persian
-- [ ] Himalayan
-- [ ] Siamese
-- [ ] Maine Coon
-- [ ] Angora
-- [ ] Sphynx
-- [ ] Ragdoll
-- [ ] Ashera
+- [x] Himalayan
+- [x] Siamese
+- [x] Maine Coon
+- [x] Angora
+- [x] Sphynx
+- [x] Ragdoll
+- [x] Ashera
 - [x] American Shorthair
-- [ ] Exotic
+- [x] Exotic
