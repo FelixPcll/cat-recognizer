@@ -15,6 +15,7 @@ a cat breed recognizer using TF
 * Ashera
 * American Shorthair
 * Exotic
+* British Shorthair
 
 ## Where will we find
 
@@ -34,3 +35,4 @@ a cat breed recognizer using TF
 - [x] Ashera
 - [x] American Shorthair
 - [x] Exotic
+- [x] British Shorthair
